@@ -1,1 +1,1 @@
-# HospitalGUI
+# Hospital Management System
